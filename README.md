@@ -34,10 +34,6 @@ FACILITY
 
 GPE (Geo-Political Entity)
 
-## Neural Network Model
-
-Include the neural network model diagram.
-
 ## DESIGN STEPS
 
 ### STEP 1: 
@@ -54,6 +50,9 @@ Define the LSTM model architecture using Keras functional API, including embeddi
 
 ### STEP 5: 
 Compile, train, and evaluate the model, monitoring training/validation metrics and assessing prediction accuracy on test data.
+
+### Name: Dharini PV
+### Reg no: 212222240024
 
 ## PROGRAM
 
