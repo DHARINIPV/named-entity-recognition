@@ -161,7 +161,10 @@ history = model.fit(
 metrics = pd.DataFrame(model.history.history)
 metrics.head()
 
+print("DhariniPV_212222240024")
 metrics[['accuracy','val_accuracy']].plot()
+
+print("DhariniPV_212222240024")
 metrics[['loss','val_loss']].plot()
 
 i = 20
